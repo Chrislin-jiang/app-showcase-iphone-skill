@@ -19,7 +19,20 @@ skills/app-showcase-iphone-skill/
 
 ---
 
-## 🧑‍💻 给开发者使用
+## 准备
+
+**安装 Skill：**
+
+可以按以下步骤安装此 Skill：
+
+```bash
+# 在 skills 目录下，克隆仓库到本地
+git clone git@github.com:Chrislin-jiang/app-showcase-iphone-skill.git
+# or
+git clone https://github.com/Chrislin-jiang/app-showcase-iphone-skill.git
+```
+
+## 🧑‍💻 生成预览
 
 **激活 Skill：**
 用户说"生成预览页面" → 自动激活 Skill → 自动检测 → (若失败)询问应用信息 → 生成 `preview.html`
@@ -34,25 +47,14 @@ skills/app-showcase-iphone-skill/
 
 ---
 
-## 👤 用户使用
-
-**安装 Skill：**
-
-可以按以下步骤安装此 Skill：
-
-```bash
-# 在 skills 目录下，克隆仓库到本地
-git clone git@github.com:Chrislin-jiang/app-showcase-iphone-skill.git
-# or
-git clone https://github.com/Chrislin-jiang/app-showcase-iphone-skill.git
-```
+## 预览效果查看
 
 **使用流程：**
 
-1. **找到预览文件**开发者生成 `preview.html` 后，双击文件在浏览器中打开
+1. **找到预览文件**开发者生成 `preview.html` 后（一般在项目最外层），右键点击 Open In Browser (文件夹中双击文件在浏览器中打开)
 2. **查看效果**
 
-   - 自动显示 5 个 iPhone 框架页面预览
+   - 自动显示若干个 iPhone 框架页面预览
    - 点击右上角 ☀️/🌙 切换深色/浅色模式
 3. **分享链接**
 
@@ -77,7 +79,6 @@ git clone https://github.com/Chrislin-jiang/app-showcase-iphone-skill.git
 | 文件                         | 说明           |
 | ---------------------------- | -------------- |
 | `preview.html`             | 预览页面主文件 |
-| `preview.html 使用说明.md` | 用户使用指南   |
 
 ## 📃 示例
 
