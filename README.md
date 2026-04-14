@@ -41,8 +41,7 @@ skills/app-showcase-iphone-skill/
 可以按以下步骤安装此 Skill：
 
 ```bash
-# 克隆仓库到本地
-# 在 skills 目录下
+# 在 skills 目录下，克隆仓库到本地
 git clone git@github.com:Chrislin-jiang/app-showcase-iphone-skill.git
 # or
 git clone https://github.com/Chrislin-jiang/app-showcase-iphone-skill.git
