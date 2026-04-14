@@ -36,6 +36,18 @@ skills/app-showcase-iphone-skill/
 
 ## 👤 用户使用
 
+**安装 Skill：**
+
+可以按以下步骤安装此 Skill：
+
+```bash
+# 克隆仓库到本地
+# 在 skills 目录下
+git clone git@github.com:Chrislin-jiang/app-showcase-iphone-skill.git
+# or
+git clone https://github.com/Chrislin-jiang/app-showcase-iphone-skill.git
+```
+
 **使用流程：**
 
 1. **找到预览文件**开发者生成 `preview.html` 后，双击文件在浏览器中打开
