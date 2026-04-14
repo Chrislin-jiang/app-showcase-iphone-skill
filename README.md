@@ -67,3 +67,11 @@ skills/app-showcase-iphone-skill/
 | ---------------------------- | -------------- |
 | `preview.html`             | 预览页面主文件 |
 | `preview.html 使用说明.md` | 用户使用指南   |
+
+## 📃 示例
+
+![1776144391926](https://p9-juejin-sign.byteimg.com/tos-cn-i-k3u1fbpfcp/2609a82aa92a440a92f9160b007b26d3~tplv-k3u1fbpfcp-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56qX6L6555qEYW5pbmk=:q75.awebp?rk3s=f64ab15b&x-expires=1776749848&x-signature=rxbjnNXccronyHEhkWCkuzs0rDE%3D)
+
+![1776144429720](https://p9-juejin-sign.byteimg.com/tos-cn-i-k3u1fbpfcp/2832f7fa27ae4d188c3d3d5f4fd1ed47~tplv-k3u1fbpfcp-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56qX6L6555qEYW5pbmk=:q75.awebp?rk3s=f64ab15b&x-expires=1776749848&x-signature=ci4vE3GwSuGL6BpW6voc%2FiAosNg%3D)
+
+![1776144450694](https://p9-juejin-sign.byteimg.com/tos-cn-i-k3u1fbpfcp/08f259756fbb4e8481ab093453ae5037~tplv-k3u1fbpfcp-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56qX6L6555qEYW5pbmk=:q75.awebp?rk3s=f64ab15b&x-expires=1776749848&x-signature=9AkHBgO66kcBICl8TtOSCxS6Ht0%3D)
